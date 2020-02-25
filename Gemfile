@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rake'
+gem 'rake', '>= 12.3.3'
 gem 'sprockets'
 gem 'coffee-script'
 gem 'coffee-script-source', '~> 1.9.1'
